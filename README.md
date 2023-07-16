@@ -41,6 +41,6 @@ Contributions to this repository are welcome! If you have any professional C pro
 The projects in this repository are provided under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes. Please refer to the specific project's LICENSE file for more details.
 
 ## About the Author
-This repository is maintained by [Your Name]. You can reach me at [your-email@example.com] for any inquiries or collaboration opportunities.
+This repository is maintained by [Your Name]. You can reach me at [aniketmaji265@gmail.com] for any inquiries or collaboration opportunities.
 
 Happy coding! 🚀
